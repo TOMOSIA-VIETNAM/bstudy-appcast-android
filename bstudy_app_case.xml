@@ -4,7 +4,7 @@
         <title>Beli English</title>
         <item>
             <description>Minor updates and improvements.</description>
-            <enclosure url="" sparkle:version="1.0.0" sparkle:os="android" />
+            <enclosure url="" sparkle:version="1.1.0" sparkle:os="android" />
         </item>
     </channel>
 </rss>
